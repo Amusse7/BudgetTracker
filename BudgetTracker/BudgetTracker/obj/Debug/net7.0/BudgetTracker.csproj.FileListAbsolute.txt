@@ -1,0 +1,15 @@
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/bin/Debug/net7.0/BudgetTracker
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/bin/Debug/net7.0/BudgetTracker.deps.json
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/bin/Debug/net7.0/BudgetTracker.runtimeconfig.json
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/bin/Debug/net7.0/BudgetTracker.dll
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/bin/Debug/net7.0/BudgetTracker.pdb
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.csproj.AssemblyReference.cache
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.AssemblyInfoInputs.cache
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.AssemblyInfo.cs
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.csproj.CoreCompileInputs.cache
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.dll
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/refint/BudgetTracker.dll
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.pdb
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/BudgetTracker.genruntimeconfig.cache
+/Users/abdul/Desktop/projects/c#/Budget/BudgetTracker/BudgetTracker/obj/Debug/net7.0/ref/BudgetTracker.dll

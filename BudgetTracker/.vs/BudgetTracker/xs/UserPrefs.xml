@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5115FC21-9B38-42B7-AA3C-D492F3AD86DE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BudgetTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetTracker/Program.cs">
+    <Files>
+      <File FileName="BudgetTracker/BudgetTracker.cs" Line="50" Column="1" IsPinned="True" />
+      <File FileName="BudgetTracker/Expense.cs" Line="2" Column="1" IsPinned="True" />
+      <File FileName="BudgetTracker/Program.cs" Line="16" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BudgetTracker" expanded="True">
+            <Node name="BudgetTracker" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
